@@ -1,0 +1,18 @@
+# Environments
+venv/
+env/
+.venv/
+.env/
+
+# Variables de Entorno / Secretos
+.env
+.env.*
+!.env.example
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac OS
+.DS_Store
